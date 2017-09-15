@@ -321,5 +321,4 @@ TSWLatexianTemp*
 *-tags.tex
 
 Lectures/Lecture1-StatsAndEDA/hubway_data/
-.DS_Store
-Labs/.DS_Store
+*.DS_Store
